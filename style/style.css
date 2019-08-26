@@ -1,0 +1,83 @@
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif; 
+    line-height: 1.6em;
+    margin: 0; 
+}
+
+/* Container Setting For My Website */
+.container{
+    width: 70%; 
+    margin: auto;
+    
+}
+
+/* Container Setting For Main Header and floating them*/
+#main_header{
+    text-align: left;
+    border-top: solid #696969 2px; 
+    border-bottom: solid #696969 2px; 
+    margin-top: 17px; 
+    padding-top: 8px; 
+    padding-bottom: 8px; 
+    
+}
+.flexgroup{
+    float: right;
+    width: 85%;
+    box-sizing: border-box;
+}
+
+#main_header img{
+    min-width: 130px;
+    height: 170px; 
+    float: left;
+    box-sizing: border-box;
+}
+
+#main_header p{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.clr{
+    clear: both; 
+}
+
+
+/* Navbar Design */
+
+
+
+#navbar ul{
+    padding: 0; 
+    list-style: none; 
+    border-bottom: solid 2px #696969; 
+    padding-bottom: 11px; 
+    margin-top: 11px; 
+    margin-bottom: 45px; 
+
+
+}
+
+#navbar li{
+    display: inline; 
+}
+
+#navbar a{
+    color: black; 
+    text-decoration: none; 
+    font-size: 16px; 
+    padding-right: 20px; 
+}
+
+#navbar a:hover{
+    color: grey; 
+}
+
+/* Footer Design */
+#footer{
+    background: #555;
+    color: white; 
+    text-align: center; 
+    padding: 5px; 
+}

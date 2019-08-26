@@ -1,0 +1,12 @@
+.container #main_content{
+    display: flex; 
+    justify-content: space-between; 
+
+}
+
+.container floater{
+    border: black 1px solid; 
+    border-radius: 10px; 
+    width: 31%; 
+    text-align: center; 
+}

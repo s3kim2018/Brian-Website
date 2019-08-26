@@ -1,0 +1,20 @@
+#main_content img{
+    float: left; 
+    padding-left: 14px; 
+    min-width: 180px;
+    height:  200px; 
+    padding-bottom: 30px; 
+}
+
+#main_content .flexgroup2{
+    padding-top: 10px; 
+    line-height: 1.8em; 
+    font-size: 15.5px; 
+    float: right; 
+    box-sizing: border-box; 
+    width: 65%; 
+}
+
+#main_content ul{
+    margin-bottom: 50px; 
+}
