@@ -1,5 +1,6 @@
 .container #main_content{
     display: flex; 
+    flex-wrap: wrap; 
     justify-content: space-between; 
 
 }
@@ -8,5 +9,12 @@
     border: black 1px solid; 
     border-radius: 10px; 
     width: 31%; 
-    text-align: center; 
+    text-align: center;
+    margin-bottom: 50px; 
+}
+
+#main_content img{
+    height: 150px; 
+    width: 150px; 
+    border-radius: 15px; 
 }
