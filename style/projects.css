@@ -1,5 +1,5 @@
 
-@media(min-width: 760px){
+@media(min-width: 1000px){
     .container #main_content{
         display: flex; 
         flex-wrap: wrap; 
@@ -22,7 +22,7 @@
     }
     
 }
-@media(max-width: 760px){
+@media(max-width: 1000px){
     .container #main_content{
         display: flex; 
         flex-wrap: wrap; 
