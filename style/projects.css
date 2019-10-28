@@ -34,13 +34,13 @@
         margin: auto; 
         border: black 1px solid; 
         border-radius: 10px; 
-        width: 80%; 
+        width: 65%; 
         text-align: center;
         margin-bottom: 50px; 
     }
     
     #main_content img{
-        width: 55%;
+        width: 38%;
         height: 150px; 
         border-radius: 15px; 
     }
